@@ -1,0 +1,23 @@
+{
+  "name": "BTC 100K #92",
+  "description": "Anillo de colección edición limitada #92. Celebrando Bitcoin a 100K.",
+  "image": "https://raw.githubusercontent.com/LeaPintos/mi-nft-collection/main/BTC100K_92.png",
+  "attributes": [
+    {
+      "trait_type": "Edition",
+      "value": "#92"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "BTC100K"
+    },
+    {
+      "trait_type": "Total Supply",
+      "value": "100"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "Standard"
+    }
+  ]
+}
